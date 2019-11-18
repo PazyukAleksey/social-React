@@ -1,0 +1,14 @@
+.profileWrapper {	
+	display: flex;
+	margin: 0 20px; 
+}
+.mainAvatar {
+	width: 100px;
+	height: 100px;
+	border-radius: 4px;
+	margin-right: 30px;
+}
+ .profileItem {
+ 	margin: 0 5px;
+ 	font-size: 14pt;
+ }

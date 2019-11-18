@@ -1,0 +1,30 @@
+.postWrapper {
+	margin: 0 3%;
+}
+.postWrapper h2 {
+	margin-left: 1em;
+}
+.postWrapper textarea {
+	padding: 5px;
+	display: block;
+	width: 100%;
+	height: 5em;
+	box-sizing: border-box;
+	resize: none;
+	border-radius: 3px;
+}
+
+.newPostBtnWrapper {
+	display: flex;
+  justify-content: flex-end;
+}
+.newPostBtn {
+	margin: 1em 0;
+	background-color: DodgerBlue;
+	border-radius: 2px;
+	border: none;
+	width: 100px;
+	height: 2em;
+	color: white;
+}
+

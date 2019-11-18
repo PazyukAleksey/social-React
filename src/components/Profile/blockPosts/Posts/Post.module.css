@@ -1,0 +1,16 @@
+.postWraper {
+	height: 50px;
+	display: flex;
+	margin: 10px 3%;
+}
+
+.avatar {
+	height: 50px;
+	width: 50px;
+	border-radius: 50%
+}
+
+.postContent {
+	padding-left: 10%;
+	width: 100%;
+}

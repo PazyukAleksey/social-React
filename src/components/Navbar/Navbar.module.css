@@ -1,0 +1,13 @@
+.navigationList {
+	list-style: none;
+	font-size: 22px;
+}
+
+.navigationItem a{
+	text-decoration: none;
+	color: black;
+}
+
+a.active {
+	color: gold;
+}

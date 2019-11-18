@@ -1,0 +1,10 @@
+.dialogWrapper {
+
+}	
+.dialogItem {
+	text-decoration: none;
+	color: black;
+}
+.active {
+	color: gold;
+}
